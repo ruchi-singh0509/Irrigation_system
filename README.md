@@ -14,7 +14,7 @@ Welcome to the Irrigation System Web App! This application helps automate irriga
 
 - **Frontend:** React.js
 - **Styling:** CSS
-- **Deployment:** Vercel
+- **Deployment:** Netlify
 
 ## Getting Started
 

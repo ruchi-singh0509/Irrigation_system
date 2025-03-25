@@ -63,8 +63,8 @@ To run this application locally, follow these steps:
 
 ## Screenshots
 
-![Irrigation System Screenshot](public\Capture.PNG)
-![Irrigation System Screenshot](public\Capture2.PNG)
+![Irrigation System Screenshot](C:\Users\91834\Irrigation_system\public\Capture.PNG)
+![Irrigation System Screenshot](C:\Users\91834\Irrigation_system\public\Capture2.PNG)
 
 
 ## Conclusion

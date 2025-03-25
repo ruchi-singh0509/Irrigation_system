@@ -63,9 +63,11 @@ To run this application locally, follow these steps:
 
 ## Screenshots
 
-![Irrigation System Screenshot](C:\Users\91834\Irrigation_system\public\Capture.PNG)
-![Irrigation System Screenshot](C:\Users\91834\Irrigation_system\public\Capture2.PNG)
 
+![Capture](https://github.com/user-attachments/assets/f1831f5e-99b6-4047-a010-6f4acd0338bf)
+
+
+![Capture2](https://github.com/user-attachments/assets/ff1a92fd-7fae-424b-8733-619c5e6b2126)
 
 ## Conclusion
 

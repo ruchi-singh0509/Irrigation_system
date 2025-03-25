@@ -1,12 +1,77 @@
-# React + Vite
+# Irrigation System Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+Welcome to the Irrigation System Web App! This application helps automate irrigation cycles for modern IoT farms by allowing users to create and view schedules based on user-defined parameters. You can specify the number of plots, motors, and timings to efficiently manage irrigation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **User Input:** Easily input the number of plots, motors, start and end times, motor runtime, and cycle interval.
+- **Schedule Generation:** Automatically generates an irrigation schedule based on input parameters.
+- **Responsive Design:** The app is styled for a clean, modern look.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- **Frontend:** React.js
+- **Styling:** CSS
+- **Deployment:** Vercel
+
+## Getting Started
+
+To run this application locally, follow these steps:
+
+### Prerequisites
+
+- Node.js installed on your machine.
+- A package manager (npm or yarn).
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/irrigation-system.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd irrigation-system
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open your browser and go to `http://localhost:3000`.
+
+## Usage
+
+1. Fill in the form with:
+   - Number of Plots
+   - Number of Motors
+   - Irrigation Start Time (in HH:MM format)
+   - Irrigation End Time (in HH:MM format)
+   - Motor Runtime (in minutes)
+   - Irrigation Cycle Interval (in minutes)
+2. Click on the "Submit" button to generate the irrigation schedule.
+3. A new window will display the generated irrigation schedule, showing:
+   - Plot Name
+   - Start Time
+   - End Time
+   - Motor Running the irrigation
+
+## Screenshots
+
+![Irrigation System Screenshot](Capture.PNG)
+![Irrigation System Screenshot](Capture2.PNG)
+
+
+## Conclusion
+
+The Irrigation System Web App provides a user-friendly interface to automate the irrigation process for farms, making it easier to manage multiple plots and motors efficiently. 
+
+
+
+
+
